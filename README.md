@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## Simple Chat Bot with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The goal for this project was to build Chat Bot that helps find study resources for students.
 
