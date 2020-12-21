@@ -8,6 +8,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=vEROU2XtPR8"
@@ -25,6 +26,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=vEROU2XtPR8"
@@ -42,6 +44,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=vEROU2XtPR8"
@@ -60,6 +63,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://javascript.info/first-steps"
@@ -77,6 +81,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://javascript.info/first-steps"
@@ -94,6 +99,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://javascript.info/first-steps"
@@ -112,6 +118,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=DLX62G4lc44"
@@ -129,6 +136,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=DLX62G4lc44"
@@ -146,6 +154,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=DLX62G4lc44"
@@ -164,6 +173,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://reactjs.org/tutorial/tutorial.html"
@@ -181,6 +191,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://reactjs.org/tutorial/tutorial.html"
@@ -198,6 +209,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://reactjs.org/tutorial/tutorial.html"
@@ -217,6 +229,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=rfscVS0vtbw"
@@ -234,6 +247,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=rfscVS0vtbw"
@@ -251,6 +265,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=rfscVS0vtbw"
@@ -269,6 +284,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.python.org/about/gettingstarted/"
@@ -286,6 +302,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.python.org/about/gettingstarted/"
@@ -303,6 +320,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.python.org/about/gettingstarted/"
@@ -321,6 +339,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=HXV3zeQKqGY"
@@ -338,6 +357,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=HXV3zeQKqGY"
@@ -355,6 +375,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href="https://www.youtube.com/watch?v=HXV3zeQKqGY"
@@ -373,6 +394,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href=" https://www.tutorialrepublic.com/sql-tutorial/"
@@ -390,6 +412,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href=" https://www.tutorialrepublic.com/sql-tutorial/"
@@ -407,6 +430,7 @@ export const getResourse = (userReq) => {
   ) {
     return (
       <a
+        rel="noreferrer"
         className="resourse-link"
         target="_blank"
         href=" https://www.tutorialrepublic.com/sql-tutorial/"

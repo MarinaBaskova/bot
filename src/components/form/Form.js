@@ -10,7 +10,8 @@ function Form() {
   const onInputChange = (val) => setInputValue(val);
 
   const handleSubmit = (val) => {
-    setUserQuestion(val);
+    let cleanupVal = val.toLowerCase().replace(/[^a-zA-Z0-9]+/g, '-');
+    setUserQuestion(cleanupVal);
     setInputValue('');
   };
 
