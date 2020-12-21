@@ -1,6 +1,6 @@
-## Simple Chat Bot with Create React App
+## Simple chatbot with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The goal for this project was to build Chat Bot that helps find study resources for students.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The goal for this project was to build chatbot that helps find study resources for students.
 
 ## Available Scripts
 
@@ -37,6 +37,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 React was used for building reusable UI components with a faster render of the virtual DOM.
 
- React emoji was used for building emoji picker in the user input.
+React emoji was used for building emoji picker in the user input.
 
 TODO: The next steps will be to bring interaction between the User and bot from the User's input messages.
