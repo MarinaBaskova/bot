@@ -31,12 +31,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Functionality
 
-### User can choose from provided options in the chat to get to the suggested resource link. Users can select the level of expertise, learning style (video, article), and what course they are taking.
+ User can choose from provided options in the chat to get to the suggested resource link. Users can select the level of expertise, learning style (video, article), and what course they are taking.
 
 ## Tech
 
-### React was used for building reusable UI components with a faster render of the virtual DOM.
+React was used for building reusable UI components with a faster render of the virtual DOM.
 
-### React emoji was used for building emoji picker in the user input.
+ React emoji was used for building emoji picker in the user input.
 
-### TODO: The next steps will be to bring interaction between the User and bot from the User's input messages.
+TODO: The next steps will be to bring interaction between the User and bot from the User's input messages.
